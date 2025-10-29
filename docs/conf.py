@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'F5 TMOS お客立ちガイド'
+project = 'BIG-IP TMOS お役立ちガイド'
 copyright = '2025, F5ネットワークスジャパン合同会社'
 author = 'F5ネットワークスジャパン合同会社'
 
