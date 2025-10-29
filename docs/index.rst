@@ -11,7 +11,7 @@ F5 TMOS お役立ちガイド　ライブラリ
 
 - F5 iHealth Upgrade Advisor
   
- :download:`資料をダウンロードできます <images/iHealth_Upgrade_Advisor.pdf>`
+ :download:`資料をダウンロードできます <images/F5iHealth_Upgrade_Advisor.pdf>`
 
 
 
