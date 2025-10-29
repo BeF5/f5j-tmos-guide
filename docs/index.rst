@@ -1,7 +1,7 @@
 F5 TMOS お役立ちガイド　ライブラリ
 ================================================
 
-ここでは、F5 ソリューションの解説資料・動画を参照することが可能です。
+ここでは、F5 TMOS お客立ちガイドを参照することが可能です。
 
 さらにご興味がある場合は、担当営業もしくは `こちらをクリック <https://www.f5.com/ja_jp/company/contact>`_ からお問合せください。
 
@@ -11,7 +11,7 @@ F5 TMOS お役立ちガイド　ライブラリ
 
 - F5 iHealth Upgrade Advisor
   
-:download:`資料をダウンロードできます <images/iHealth_Upgrade_Advisor.pdf>`
+ :download:`資料をダウンロードできます <images/iHealth_Upgrade_Advisor.pdf>`
 
 
 
